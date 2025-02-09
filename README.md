@@ -2,7 +2,7 @@
       
     This project analyzes shopping behavior using a dataset with 3,900 rows and 18 columns. It explores customer demographics, purchase preferences, seasonal trends, and promotional impacts.
 
-📌** Dataset Overview**
+📌**Dataset Overview**
 
     Customer ID – Unique identifier for each customer
     Age & Gender – Demographics of the customer
@@ -15,7 +15,7 @@
     Discount & Promo Code – Impact of promotions on buying behavior
     Previous Purchases & Frequency – Customer retention insights
     
-🔍** Key Insights Explored**
+🔍**Key Insights Explored**
 
     ✔️ Age & gender-wise purchasing patterns
     ✔️ Seasonal & regional shopping trends
